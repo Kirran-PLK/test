@@ -1,0 +1,6 @@
+{{#user}}
+Name: KIRRAN P L
+Skills: Python,git,shell scripting,terraform,linux,azure
+Email: kirran231@gmail.com
+{{/user}}
+
